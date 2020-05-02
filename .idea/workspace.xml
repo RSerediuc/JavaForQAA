@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d109a5-6268-4204-a30d-0104886fff9f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/Exercitiul9.class" beforeDir="false" />
-    </list>
+    <list default="true" id="59d109a5-6268-4204-a30d-0104886fff9f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
