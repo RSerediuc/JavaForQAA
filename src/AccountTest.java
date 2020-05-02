@@ -13,7 +13,7 @@ public class AccountTest {
 
         System.out.println("Enter the deposit amount for account1: ");
         depositAmount = input.nextDouble();
-        System.out.printf("\nadding %.2f to account1 balance\n\n", depositAmount);
+        System.out.printf("\nAdding $%.2f to account1 balance\n\n", depositAmount);
         account1.credit(depositAmount); // add to account1 balance
 
         // display balances
@@ -23,7 +23,7 @@ public class AccountTest {
 
         System.out.print("Enter deposit amount for account2: ");
         depositAmount = input.nextDouble();
-        System.out.printf("\nAdding %.2f to account2 balance\n\n", depositAmount);
+        System.out.printf("\nAdding $%.2f to account2 balance\n\n", depositAmount);
         account2.credit(depositAmount); //add to account2 balance
 
         //display balances
@@ -32,7 +32,7 @@ public class AccountTest {
 
         System.out.print("Enter debit amount for account1: ");
         debitAmount = input.nextDouble();
-        System.out.printf("\nSubtracting %.2f from account1 balance\n\n", debitAmount);
+        System.out.printf("\nSubtracting $%.2f from account1 balance\n\n", debitAmount);
 
         //add testing section for ‘debit’ method (account1) and display both balances
         account1.debit(debitAmount);  // withdrawing amount of money from account1 balance
@@ -43,13 +43,14 @@ public class AccountTest {
 
         System.out.print("Enter debit amount for account2: ");
         debitAmount = input.nextDouble();
-        System.out.printf("\nSubtracting %.2f from account2 balance\n\n", debitAmount);
+        System.out.printf("\nSubtracting $%.2f from account2 balance\n\n", debitAmount);
 
         //// add testing section for ‘debit’ method (account2) and
         account2.debit(debitAmount); // removing money from account2
 
-       //display balances
-        System.out.printf("Display Account1 balance after debit subtraction $%.2f\n", account2.getBalance());
+        //display balances
         System.out.printf("Display Account1 balance after debit subtraction $%.2f\n", account1.getBalance());
+        System.out.printf("Display Account2 balance after debit subtraction $%.2f\n", account2.getBalance());
     }
 }
+
