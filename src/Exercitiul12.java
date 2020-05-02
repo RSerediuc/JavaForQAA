@@ -11,24 +11,20 @@ public class Exercitiul12 {
         int grade;
         List<Integer> gradesList = new ArrayList<>();
 
-
         do {
             grade = input.nextInt();
             noCounter++;
             gradesList.add(grade);
             if (grade == -1 || grade == 0) {
                 noCounter--;
-                gradesList.remove(gradesList.size()-1 );
+                gradesList.remove(gradesList.size() - 1);
             }
-
         }
-        while (grade != 0 && noCounter < 20 );
-
+        while (grade != 0 && noCounter < 20);
 
         System.out.println(gradesList);
-
-        }
-
     }
 
-    public static void main
+}
+
+
