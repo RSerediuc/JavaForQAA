@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d109a5-6268-4204-a30d-0104886fff9f" name="Default Changelist" comment="" />
+    <list default="true" id="59d109a5-6268-4204-a30d-0104886fff9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/JavaForQA/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaForQA/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/InvoiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaForQA/InvoiceTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +39,16 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.InvoiceTest">
+  <component name="RunManager" selected="Application.EmployeeTest">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <module name="JavaForQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
       <module name="JavaForQA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercitiul7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercitiul7" />
-      <module name="JavaForQA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InvoiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InvoiceTest" />
       <module name="JavaForQA" />
@@ -70,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.InvoiceTest" />
         <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.Exercitiul12" />
         <item itemvalue="Application.Exercitiul11" />
-        <item itemvalue="Application.Exercitiul7" />
       </list>
     </recent_temporary>
   </component>
@@ -96,9 +103,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1587990590737" />
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1588427160097">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1202" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1588486717827">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1202" y="143" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588486717827" />
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588427160097" />
     <state x="-1202" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588137313854">
       <screen x="-1920" y="0" width="1920" height="1040" />
@@ -108,28 +116,28 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588413637576" />
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom" timestamp="1588442000649">
+    <state width="1877" height="192" key="GridCell.Tab.0.bottom" timestamp="1588492156749">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588442000649" />
+    <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588492156749" />
     <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
     <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
-    <state width="1877" height="192" key="GridCell.Tab.0.center" timestamp="1588442000649">
+    <state width="1877" height="192" key="GridCell.Tab.0.center" timestamp="1588492156749">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588442000649" />
+    <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588492156749" />
     <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
     <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
-    <state width="1877" height="192" key="GridCell.Tab.0.left" timestamp="1588442000649">
+    <state width="1877" height="192" key="GridCell.Tab.0.left" timestamp="1588492156749">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588442000649" />
+    <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588492156749" />
     <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
     <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
-    <state width="1877" height="192" key="GridCell.Tab.0.right" timestamp="1588442000649">
+    <state width="1877" height="192" key="GridCell.Tab.0.right" timestamp="1588492156749">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588442000649" />
+    <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588492156749" />
     <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
     <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588227304546">
@@ -152,10 +160,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1587990542998" />
-    <state x="525" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1588226482749">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588484888680">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588073766303" />
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588484888680" />
     <state x="525" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588226482749" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588414787671">
       <screen x="0" y="0" width="1536" height="824" />
