@@ -30,6 +30,8 @@ public class InvoiceTest {
         double price = input.nextDouble();
         invoice1.setPricePerItem(price);
 
+        input.close();
+
         System.out.printf("Invoice 1: \nPart Number:%s\t \nPart Description:%s\t \nQuantity: %d\t \nPrice: $%.2f\n", invoice1.getPartNumber(), invoice1.getPartDesc(), invoice1.getQuantity(), invoice1.getPricePerItem());
         System.out.println("Amount:$" + invoice1.getInvoiceAmount() + "\n\n");
     }

@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="59d109a5-6268-4204-a30d-0104886fff9f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/InvoiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaForQA/InvoiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaForQA/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaForQA/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InvoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InvoiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.InvoiceTest">
+  <component name="RunManager" selected="Application.SavingsAccountTest">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AccountTest" />
       <module name="JavaForQA" />
@@ -52,20 +54,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
-      <module name="JavaForQA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercitiul12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercitiul12" />
-      <module name="JavaForQA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InvoiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InvoiceTest" />
       <module name="JavaForQA" />
@@ -73,13 +61,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SavingsAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SavingsAccountTest" />
+      <module name="JavaForQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableDemo" />
+      <module name="JavaForQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SavingsAccountTest" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.VariableDemo" />
         <item itemvalue="Application.InvoiceTest" />
         <item itemvalue="Application.DateTest" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.AccountTest" />
-        <item itemvalue="Application.Exercitiul12" />
       </list>
     </recent_temporary>
   </component>
@@ -114,29 +116,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588413637576" />
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom" timestamp="1588499697460">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1588599206230">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588499697460" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
+    <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588581435567" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588599206230" />
     <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
-    <state width="1877" height="192" key="GridCell.Tab.0.center" timestamp="1588499697459">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1588599206230">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588499697459" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
+    <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588581435566" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588599206230" />
     <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
-    <state width="1877" height="192" key="GridCell.Tab.0.left" timestamp="1588499697459">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1588599206230">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588499697459" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
+    <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588581435566" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588599206230" />
     <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
-    <state width="1877" height="192" key="GridCell.Tab.0.right" timestamp="1588499697459">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1588599206230">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588499697459" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588435079840" />
+    <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588581435567" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588599206230" />
     <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588229337497" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588227304546">
       <screen x="0" y="0" width="1536" height="824" />
@@ -158,10 +160,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1587990542998" />
-    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588484888680">
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588572578351">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588484888680" />
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588572578351" />
     <state x="525" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588226482749" />
     <state x="-1311" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588498101700">
       <screen x="-1920" y="0" width="1920" height="1040" />
@@ -176,9 +178,18 @@
     </state>
     <state x="-1230" y="275" key="extract.method.dialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588494187853" />
     <state x="552" y="218" key="extract.method.dialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588427406033" />
-    <state x="-1304" y="240" key="run.anything.popup" timestamp="1588079561059">
+    <state x="-1218" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1588577112030">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1218" y="148" key="refactoring.ChangeSignatureDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588577112030" />
+    <state x="493" y="190" key="run.anything.popup" timestamp="1588597785265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
     <state x="-1304" y="240" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588079561059" />
+    <state x="493" y="190" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588597785265" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588587891851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1588587891851" />
   </component>
 </project>

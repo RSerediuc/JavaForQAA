@@ -22,6 +22,8 @@ public class DateTest {
         year = input.nextInt();
         date1.setYear(year);
 
+        input.close();
+
         System.out.println("Date is");
         date1.displayDate();
 

@@ -48,6 +48,8 @@ public class AccountTest {
         //// add testing section for ‘debit’ method (account2) and
         account2.debit(debitAmount); // removing money from account2
 
+        input.close();
+
         //display balances
         System.out.printf("Display Account1 balance after debit subtraction $%.2f\n", account1.getBalance());
         System.out.printf("Display Account2 balance after debit subtraction $%.2f\n", account2.getBalance());
