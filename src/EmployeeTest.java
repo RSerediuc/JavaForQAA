@@ -5,7 +5,7 @@ public class EmployeeTest {
         Employee employee2 = new Employee("Andrei", "Popescu", 100);
 
         //display employee1 information
-        System.out.printf("Employee 1:\n First Name:%s\t LastName:%s\t Monthly Salary:$%s \t\n",employee1.getFirstName(), employee1.getLastName(), employee1.getMonthlySalary());
+        System.out.printf("Employee 1:\nFirst Name:%s\t LastName:%s\t Monthly Salary:$%s \t\n",employee1.getFirstName(), employee1.getLastName(), employee1.getMonthlySalary());
         System.out.println("Yearly Salary: $" + employee1.getYearlySalary());
 
        //give 10% raise to employee 1

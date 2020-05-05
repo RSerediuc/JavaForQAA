@@ -1,8 +1,8 @@
 public class Invoice {
-    String partNumber; // instance variable
-    String partDescription; // instance variable
-    int quantity; // instance variable
-    double pricePerItem; // instance variable
+    private String partNumber; // instance variable
+    private String partDescription; // instance variable
+    private int quantity; // instance variable
+    private double pricePerItem; // instance variable
 
     // Invoice constructor that initializes the four instance variables
     public Invoice(int qty, String partNo, String partDesc, double price) {

@@ -1,7 +1,7 @@
 public class Employee {
-    String firstName; // instance variable
-    String lastName; // instance variable
-    double monthlySalary; // instance variable
+   private String firstName; // instance variable
+   private String lastName; // instance variable
+   private double monthlySalary; // instance variable
 
     //created Employee constructor that initializes three variables
     public Employee(String fName, String lName, double monthSalary ) {

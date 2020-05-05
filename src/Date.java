@@ -1,13 +1,13 @@
 public class Date {
-     int month;
-     int day;
-     int year;
+    private int month;
+    private int day;
+    private int year;
 
     //created constructor
     public Date(int myMonth, int myDay, int myYear) {
-       setDay(myDay);
-       setMonth(myMonth);
-       setYear(myYear);
+        setDay(myDay);
+        setMonth(myMonth);
+        setYear(myYear);
     }
 
     //create get methods
@@ -50,7 +50,7 @@ public class Date {
     }
 
     //create displayDate method
-    public void displayDate(){
-        System.out.printf("%d/%d/%d", month,day,year);
+    public void displayDate() {
+        System.out.printf("%d/%d/%d", month, day, year);
     }
 }
